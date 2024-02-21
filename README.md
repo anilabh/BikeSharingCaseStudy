@@ -29,6 +29,13 @@ The data given in a csv contains information about bike usage in the years 2018 
 
 ## Conclusions
 
+Features Impacting Bike usage:
+1. Temp - high correlation with rising temperature
+2. Windspeed - negative correlation with very high wind speed. no impact at lower wind speeds.
+3. Weekday	- consistent usage durign the week days
+4. Year - Increased usage in 2019 vs 2018
+5. Season  - high usage in Summer and Fall
+6. Weather  - No usage in heavy rain and very low in light snow. good usage in clear weather with partly cloudy  and also Mist + Cloudy 
 
 ## Technologies Used
 - Python 3.11.1
